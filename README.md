@@ -1,7 +1,7 @@
 # ALU-Project
 This github repository describes about the 1 -Bit, 4-Bit Logic Unit (ALU) using Circuit Verse.
 
-Introduction to the ALU:- 
+Introduction to the ALU:-  
 •	ALU stands for Arithmetic Logic Unit. <br />
 •	It is a combinational digital circuit that performs arithmetic and bitwise operations.<br />
 •	It’s an important component of computer’s Central Processing Unit (CPU).<br />
