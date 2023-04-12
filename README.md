@@ -9,5 +9,11 @@ Introduction to the ALU:-
 
 ![image](https://user-images.githubusercontent.com/102464427/231547016-a3ff2f8f-b0c8-47b5-81bc-fa3591a7c141.png)
 
+Function: -  
+•	It can perform any simple arithmetic operations (add, sub etc..) and logical operation such (And, OR) etc.  
+•	Depending on the ‘OP’  selected, the result to be shown at the ‘OUT’.  
+•	It stands as an Integrated Circuit (IC) (74181). It also can be synthesized using VHDL.  
+
+
 
 
