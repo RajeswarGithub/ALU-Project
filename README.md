@@ -28,7 +28,7 @@ A Basic ALU supports these common logic operations.
 Advantage:-
 * It supports parallel architecture and applications with high performance.
 * It has the capability of performing instructions on a very large set and has a high range of accuracy.
-* 
+
 
  
 
