@@ -1,4 +1,4 @@
-# ALU-Project
+# ALU-Project 😃
 This github repository describes about the 1 -Bit, 4-Bit Logic Unit (ALU) using Circuit Verse.
 
 ### Introduction to the ALU:-  
