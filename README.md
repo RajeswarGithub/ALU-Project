@@ -1,18 +1,18 @@
-# ALU-Project 😃
-This github repository describes about the 1 -Bit, 4-Bit Logic Unit (ALU) using Circuit Verse.
+# ALU-Project 
+This GitHub repository describes about the 1 -Bit, 4-Bit Logic Unit (ALU) using Circuit Verse.
 
 ### Introduction to the ALU:-  
   *	ALU stands for Arithmetic Logic Unit. <br />
   *	It is a combinational digital circuit that performs arithmetic and bitwise operations.<br />
-  * The flow of bits and the operations performed on them in the subunits of the ALU are controlled by gated circuits.
-  *	It’s an important component of computer’s Central Processing Unit (CPU).<br />
-  *	In this Project, it performs Addition, Subtraction, NAND and NOR operations.<br />
+  * Gated circuits control The flow of bits and the operations performed on them in the ALU subunits.
+  *	It’s an important component of a computer’s Central Processing Unit (CPU).<br />
+  *	In this Project, performs Addition, Subtraction, NAND, and NOR operations.<br />
 
 ![image](https://user-images.githubusercontent.com/102464427/231547016-a3ff2f8f-b0c8-47b5-81bc-fa3591a7c141.png)
 
 ### Function:-  
-*	It can perform any simple arithmetic operations (add, sub etc..) and logical operation such (And, OR) etc.  
-*	Depending on the ‘OP’  selected, the result to be shown at the ‘OUT’.  
+*	It can perform any simple arithmetic operations (add, sub, etc..) and logical operations such (And, OR) etc.  
+*	Depending on the ‘OP’  selected, the result is to be shown at the ‘OUT’.  
 *	It stands as an Integrated Circuit (IC) (74181). It also can be synthesized using VHDL.  
 
 A Basic ALU supports these common logic operations.
@@ -59,7 +59,7 @@ In the above attached image the ALU is 1 Bit and only can perform Full Addition,
 ![image](https://user-images.githubusercontent.com/102464427/231561717-2db1abf0-f6f2-4ead-832d-05ee3e053a32.png)
 
 ### Full-Subtractor:
-* The connection of the full subtractor is as same as full-adder, i.e, placing two half-subtractors in cascade.
+* The connection of the full subtractor is as same as a full adder, i.e, placing two half-subtractors in cascade.
 
 ![image](https://user-images.githubusercontent.com/102464427/231562467-6c9f90e4-cb0b-4595-8f00-e82e197e6656.png)
 
@@ -72,7 +72,7 @@ In the above attached image the ALU is 1 Bit and only can perform Full Addition,
 ![image](https://user-images.githubusercontent.com/102464427/231564061-9a38486b-f116-458b-91a2-ee99d725e05b.png)
 
 ### NOR:
-* Like NAND, NOR is also known as an **Universal gate**.
+* Like NAND, NOR is also known as a **Universal gate**.
 * This is just a combination of OR and followed by a NOT gate.
 * In the ALU, the Sub-Circuit of the NOR gate is being used.
 * The expression for the NOR gate is X= ~(A | B).
